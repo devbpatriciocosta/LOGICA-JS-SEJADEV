@@ -10,4 +10,4 @@
 
 // Usuário - Front End - Requisição (Click) - Recebimento da requisição pelo Back End - Requisição do Back End para o banco de dados - Pesquisa da requisição no banco de dados - Resposta do banco de dados para o back end que transmite para o Front END; 
 
-//Add lógica de programação.
+//Add lógica de program
